@@ -1,0 +1,12 @@
+name|技能名称
+notes|技能介绍
+icon|技能图标
+effect|技能贴图//施法效果
+position|贴图位置//前或后,如果为前,则施法时贴图在施法者的面前,如果为后,贴图在施法者偏下的后方
+distinguish|法术标识//物理|魔法
+grade_max|技能最大等级
+Magic|技能增加魔法
+Magic_increase|技能每级增加魔法
+Demand_Magic|技能施法需求魔法
+Demand_Magic_increase|技能施法每级增加需求魔法
+last|持续回合数(0回合为被动技能)

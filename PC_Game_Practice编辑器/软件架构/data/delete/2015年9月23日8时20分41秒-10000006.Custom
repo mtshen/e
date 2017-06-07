@@ -1,0 +1,5 @@
+[skill]
+skill_id=10000006
+skill_templates_id=10000000
+[10000006]
+name=新自定义的

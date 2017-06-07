@@ -1,0 +1,10 @@
+Compiler 为全开源的编译器
+数据作为standards以及Custom
+
+data存储:
+1.存储基本的技能，单位，物品的信息
+	1.data为数据信息
+	2.fodder为贴图信息
+
+2.根目录存储关联信息Relation.dll
+	1.能够返回数据地址

@@ -1,0 +1,2 @@
+文档加密串[级别A]:Nz@j%Q<!3NC4(W;Z^+6I:hfczL&'v9HH-AW~H5~GDUWL0$OF]!5FB[*Vn<\fxI+8&8#f5[hoR:5\nICNgAaUws<M|2a@p44pqVZm
+解码通过本地decoding.dll进行读取和写入文本

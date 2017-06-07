@@ -1,0 +1,17 @@
+[10000002]
+name=魔法恢复
+notes=能够恢复自身魔法值,每次恢复100/120/140/160点魔法
+icon=C:\Users\lenovo\Desktop\PC_Game_Practice\软件架构\data\fodder\iconicon.jpg
+effect=
+position=
+distinguish=魔法
+grade_max=4
+Demand_Magic=5
+Demand_Magic_increase=0
+
+Magic=80
+Magic_increase=2
+last=
+[skill]
+skill_id=10000002
+skill_templates_id=10000002

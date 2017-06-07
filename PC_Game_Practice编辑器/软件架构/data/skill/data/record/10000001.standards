@@ -1,0 +1,17 @@
+[10000001]
+name=生命恢复
+notes=一共4级,恢复单位100/120/140/160点生命值,需要消耗30/40/50/60点魔法.s
+icon=C:\Users\lenovo\Desktop\PC_Game_Practice\软件架构\data\fodder\5351012icon.jpg
+effect=
+position=
+distinguish=魔法
+grade_max=9
+Demand_Magic=20
+Demand_Magic_increase=10
+
+life=500
+life_increase=2
+last=1
+[skill]
+skill_id=10000001
+skill_templates_id=10000001

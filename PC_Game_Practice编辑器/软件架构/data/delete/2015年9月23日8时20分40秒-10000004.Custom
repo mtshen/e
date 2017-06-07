@@ -1,0 +1,14 @@
+[skill]
+skill_id=10000004
+skill_templates_id=10000000
+[10000004]
+name=00000
+notes=
+Magic_Attack=
+grade_max=
+life=
+restored_Magic=
+Magic_ducked_increase=
+Physics_ducked_increase=
+Physics_Attack_increase=
+restored_life_increase=
